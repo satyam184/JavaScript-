@@ -1,0 +1,56 @@
+A transpiler is a type of translator that converts source code from one programming language to another.
+
+npm-> Node package manager.
+
+hoisting--> any var decleartion is going to move at very top of the function.
+
+var is functional scope.
+
+let is blocked scope or curly braces scope and not hoisted.
+
+we can reintialise the const in object but not in values;
+
+let vs const
+radius of circle we use pi so we give const pi = 3.14 so it can not declear.
+swapping a two no. we use let const.
+
+setTimeout function:
+first parameter is function and second is time(ms)
+
+Arrow function
+Arrow functions have shorter syntax than regular function expressions.
+Arrow functions have implicit return statements.
+Arrow functions increase readability.
+solving a this problem inside a function
+
+
+Rest parameter vs spread operator (...name)
+rest operator dealare in funcation
+spread operator declare in function call
+
+object literals: An object literal is a list of name:value pairs inside curly braces {}
+
+Alis
+
+string template
+
+for loop using in and of function
+
+class:
+classes are similar to function but they are not hoisted
+
+class body and methods:
+constructor
+static methods
+proto type
+
+class inheritance:
+create class inheritance, extends keyword use to inherit the class
+super keyword: the super keyword is to eliminate the confusion between superclasses and subclasses that have methods with the same name.
+
+
+
+
+
+
+
