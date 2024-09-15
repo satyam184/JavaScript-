@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "systemjs": "^6.15.1",
+    "traceur": "^0.0.49",
     "typescript": "^5.5.4"
   }
 }
